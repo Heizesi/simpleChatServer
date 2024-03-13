@@ -1,0 +1,9 @@
+{
+    "name": "testserver",
+    "version-string": "0.1.0",
+    "dependencies": [
+        "lua",
+        "libuv",
+        "luabridge3"
+    ]
+}
